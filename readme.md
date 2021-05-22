@@ -12,6 +12,6 @@ This program generates random insults based on the month you're born.
 
 
 
->Portfolio Project from codecademy.
+>Portfolio Project from [codecademy®](https://www.codecademy.com/).
 
 
